@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navigacia{
+    margin-top: 54px;
+    margin-right: 60px;
+    margin-left: 52px;
+    margin-bottom: 31px;
+    display: inline;
+    color:#8D81FF;
+    font-family: FiraGO;
+    font-weight: 700px;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+.erti{margin-right: 60px;
+     margin-top: 54px;
+    margin-left: 52px;
+    margin-bottom:52px;
+    display: inline;
+    color: #30CBC2;
+    font-family: Inter;
+    font-weight: 700px;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+}
+.info{
+    width: 474px;
+    height: 34px;
+    color:#4E6FAE;
+}
+#line{
+    height: 50px;
+    width: 2px;
+    background-color: #5012D5;
+   	display: inline-block;
+	margin: 0 41px;
+}
+#yt{
+    width: 70px;
+}
+#fb{
+    width: 50px;
+    margin-left: 52px;
+}

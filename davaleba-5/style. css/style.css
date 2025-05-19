@@ -1,0 +1,165 @@
+*{
+    margin:0;
+    padding:0;
+}
+.erti{margin-right: 60px;
+     margin-top: 54px;
+    margin-left: 52px;
+    margin-bottom:52px;
+    display: inline;
+    color: #30CBC2;
+ font-family: Inter;
+font-weight: 700px;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+     
+.navigacia{
+    margin-top: 54px;
+    margin-right: 60px;
+    margin-left: 52px;
+    display: inline;
+    color:#8D81FF;
+    font-family: FiraGO;
+    font-weight: 700px;
+    font-size: 26px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+.div{
+    background-color: #5012D5;
+    width: 50px;
+height: 50px;
+  margin-top:52px;
+margin-left:64px;
+margin-bottom:20px ;
+margin-left:52px ;
+box-sizing: border-box;
+padding:12px;
+}
+.cifria{
+    width: 31px;
+height: 34px;
+    color: #5012D5;
+margin-top:8px;
+margin-bottom: 8px;
+margin-right: 8px;
+margin-left: 8px;
+
+}
+.eqvsi{ 
+    margin-top:26px ;
+    margin-bottom:8pxpx ;
+    margin-left:52px ;
+    margin-right:1318px ;
+    color:#8D81FF;
+    width: 70px;
+height: 34px;
+}
+.shvidi{ 
+    margin-bottom: 13px;
+    margin-top: 8px;
+    margin-left: 52px;
+    margin-right: 810px;
+    width: 578px;
+    height: 34px;
+    color:#4E6FAE;
+    font-family:"Noto Sans Georgian", sans-serif;
+    letter-spacing: 3px;
+    line-height: 20px;
+    text-indent: 50px;
+    font-weight: bolder;
+}
+.rva{
+    width: 447px;
+height: 280px;
+margin-top:13px ;
+margin-bottom: 10px;
+margin-right:10px;
+margin-left: 52px;
+
+}
+p { 
+	display: inline-block;
+	width: 400px;
+	vertical-align: top;
+    color:#4E6FAE;
+    margin-top: 14px;
+    margin-bottom: 153px;
+    margin-left:66px ;
+    margin-right: 97px;
+}
+
+span {
+	display: inline-block;
+	margin-block: 10px;
+}
+.cxra{
+width: 447px;
+height: 280px;
+margin-top:14px ;
+margin-left:52px ;
+margin-bottom:176px ;
+margin-right: 66px;
+
+
+}
+.gg{
+letter-spacing: 2px;
+line-height: 20px;
+text-indent: 60px;
+font-weight: bolder;
+color: #4E6FAE;
+font-family: FiraGO;
+font-weight: 400px;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+
+}
+.leptop{
+margin-top:14px ;
+margin-bottom:32px ;
+margin-left:52px ;
+margin-right:414px ;
+width: 447px;
+height: 280px;
+
+
+}
+#line{
+    height: 50px;
+    width: 2px;
+    background-color: #5012D5;
+   	display: inline-block;
+	margin: 0 41px;
+}
+#yt{
+    width: 70px;
+}
+#fb{
+    width: 50px;
+    margin-left: 52px;
+}
+#ati{
+    color:#8D81FF;
+}
+.dashoreba{
+    font-family:"Noto Sans Georgian", sans-serif;
+    letter-spacing: 2px;
+    line-height: 20px;
+    text-indent: 60px;
+    font-weight: bolder;
+   
+}
+#mm{
+     font-family:"Noto Sans Georgian", sans-serif;
+    letter-spacing: 3px;
+    line-height: 20px;
+    text-indent: 50px;
+    font-weight: bolder;
+}
+
